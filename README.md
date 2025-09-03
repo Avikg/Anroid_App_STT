@@ -294,7 +294,7 @@ copies or substantial portions of the Software.
 - 💬 **Discussions**: Join our GitHub Discussions
 
 ### Contact Information
-- **Developer**: Avikg
+- **Developer**: Avik
 - **GitHub**: [@Avikg](https://github.com/Avikg)
 - **Project Link**: [https://github.com/Avikg/Anroid_App_STT](https://github.com/Avikg/Anroid_App_STT)
 
