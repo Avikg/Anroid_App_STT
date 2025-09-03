@@ -101,7 +101,7 @@ A powerful Android application that converts natural language voice commands int
    - Click the green "Run" button (▶️)
 
 ### Manual Installation
-1. Download the [latest APK](https://github.com/Avikg/Anroid_App_STT/releases)
+1. Download the [latest APK](https://github.com/yourusername/speech-command-controller/releases)
 2. Enable "Install from Unknown Sources" in device settings
 3. Install the APK file
 4. Grant necessary permissions when prompted
@@ -294,10 +294,9 @@ copies or substantial portions of the Software.
 - 💬 **Discussions**: Join our GitHub Discussions
 
 ### Contact Information
-- **Developer**: [Your Name]
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project Link**: [https://github.com/yourusername/speech-command-controller](https://github.com/yourusername/speech-command-controller)
+- **Developer**: Avikg
+- **GitHub**: [@Avikg](https://github.com/Avikg)
+- **Project Link**: [https://github.com/Avikg/Anroid_App_STT](https://github.com/Avikg/Anroid_App_STT)
 
 ---
 
