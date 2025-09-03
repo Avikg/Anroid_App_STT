@@ -101,7 +101,7 @@ A powerful Android application that converts natural language voice commands int
    - Click the green "Run" button (▶️)
 
 ### Manual Installation
-1. Download the [latest APK](https://github.com/yourusername/speech-command-controller/releases)
+1. Download the [latest APK](https://github.com/Avikg/Anroid_App_STT/releases)
 2. Enable "Install from Unknown Sources" in device settings
 3. Install the APK file
 4. Grant necessary permissions when prompted
